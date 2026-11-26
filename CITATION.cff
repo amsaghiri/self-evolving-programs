@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Self-Evolving Programs"
+authors:
+  - family-names: Saghiri
+    given-names: Ali Mohammad
+    affiliation: William Paterson University
+preferred-citation:
+  type: conference-paper
+  title: "Self-Evolving Programs: A Novel Approach Leveraging LLMs and Quine Programs"
+  authors:
+    - family-names: Saghiri
+      given-names: Ali Mohammad
+    - family-names: Wang
+      given-names: Nan
+  collection-title: "2024 International Conference on Computing, Internet of Things and Microwave Systems (ICCIMS)"
+  year: 2024
+  doi: "10.1109/ICCIMS61672.2024.10690672"
